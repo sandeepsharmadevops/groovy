@@ -1,1 +1,1 @@
-return "this is my samepl groovy script"
+println "this is my sample groovy script"
