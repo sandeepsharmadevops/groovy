@@ -1,2 +1,4 @@
-return "this groovy file is downloaded from git!!!dqwdqwdwqdwq"
+def myfunc() {
+  return "this groovy file is downloaded from git!!!dqwdqwdwqdwq"
+}
 
